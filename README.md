@@ -1,4 +1,4 @@
-# MyMoney Dashboard
+# AI-Powered Personal Finance Assistant
 
 A modern, responsive financial dashboard built with React and Tailwind CSS, featuring dark mode support and real-time data visualization.
 
