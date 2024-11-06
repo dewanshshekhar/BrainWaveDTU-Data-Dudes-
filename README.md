@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email dewanshshekharsingh@gmail.com or open an issue in the repository.
 
 ## 🔄 Version History
 
