@@ -11,7 +11,7 @@ A modern, responsive financial dashboard built with React and Tailwind CSS, feat
 - 🌓 Dark mode support with system preference detection
 - 📊 Interactive charts using Recharts
 - 💳 Credit card management interface
-- 📱 Fully responsive design
+- 📱 Fully responsive designs
 - 📈 Financial analytics and reporting
 - 🎨 Modern UI with Tailwind CSS
 - 🔍 Search functionality
